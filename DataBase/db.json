@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "price": 100,
+      "count": 0,
+      "imgUrl": "logo192.png",
+      "isInCart": false
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "price": 90,
+      "count": 1,
+      "imgUrl": "logo192.png",
+      "isInCart": false
+    },
+    {
+      "name": "Water",
+      "price": "50",
+      "count": 0,
+      "imgUrl": "logo192.png",
+      "isInCart": false,
+      "id": "02e3"
+    }
+  ]
+}
